@@ -1,0 +1,2 @@
+# -A-Study-on-Big-Data-Analytics-Pipeline-for-Bone-Age-Prediction-in-Healthcare
+🔍 A Study on Big Data Analytics Pipeline for Bone Age Prediction in Healthcare This project explores the use of Big Data tools (Hadoop, Spark, Hive) and deep learning (TensorFlow) to build a scalable pipeline for automated bone age prediction. It demonstrates how AI and analytics can enhance medical diagnostics and decision-making.
