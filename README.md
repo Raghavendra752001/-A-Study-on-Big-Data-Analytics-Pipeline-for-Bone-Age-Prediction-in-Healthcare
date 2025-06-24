@@ -56,7 +56,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/Raghavendra752001/bone-age-bigdata-pipeline.git
+git clone https://github.com/bone-age-bigdata-pipeline.git
 cd bone-age-bigdata-pipeline
 Install Python Dependencies
 bash
